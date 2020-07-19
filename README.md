@@ -2,7 +2,8 @@
 
 ### setup
 * clone the repo, install dependancies and run the development server locally
-* to test the API, import the collection to postman using *Node.js Task.postman_collection.json* file in the root of the folder or [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/6fd5c488c3179254d4c1)
+* to test the API, import the collection to postman using *Node.js Task.postman_collection.json* file in the root of the folder or click the below:
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/6fd5c488c3179254d4c1)
 
 
     
